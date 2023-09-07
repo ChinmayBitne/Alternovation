@@ -1,0 +1,7 @@
+gradio
+requests
+Pillow
+catboost
+numpy
+joblib
+scikit-learn
